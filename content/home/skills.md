@@ -41,10 +41,7 @@ feature:
   icon: teacher
   icon_pack: fas
   name: Teaching
-- description: 
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
