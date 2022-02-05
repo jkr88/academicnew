@@ -38,7 +38,7 @@ feature:
   icon_pack: fab
   name: Python
 - description: 
-  icon: teacher
+  icon: chalkboard-teacher
   icon_pack: fas
   name: Teaching
 
