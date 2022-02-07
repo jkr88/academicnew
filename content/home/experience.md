@@ -25,7 +25,7 @@ experience:
   - title: Graduate Student Researcher
     company: UCR
     company_url: ''
-    company_logo: org-gc
+    company_logo: ucr
     location: Riverside, California
     date_start: '2017-09-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Undergraduate Student Researcher
     company: CSULA
     company_url: ''
-    company_logo: org-x
+    company_logo: csula
     location: Los Angees, California
     date_start: '2014-08-30'
     date_end: '2017-05-15'
