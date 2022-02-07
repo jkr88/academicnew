@@ -29,12 +29,7 @@ experience:
     location: Riverside, California
     date_start: '2017-09-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: Research focused on single molecule FRET studies on the compositional and conformational dynamics of the closed-loop model in Eukaryotic translation initiation. Taught five undergraduate biochemistry courses. 
         
   - title: Undergraduate Student Researcher
     company: CSULA
@@ -43,7 +38,7 @@ experience:
     location: Los Angees, California
     date_start: '2014-08-30'
     date_end: '2017-05-15'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Minority Biomedical Research Support-Research Initiative for Scientific Enhancement (MBRS-RISE) fellow. Research centered on expression and isolation of recombinant lipid transfer protein 4 (LTP4) in Escherichia coli (e. coli), in order to assess the role of lipid transfer proteins in plant development and plant senescence. 
 
 design:
   columns: '2'
