@@ -29,7 +29,7 @@ experience:
     location: 'University of California, Riverside'
     date_start: '2017-09'
     date_end: ''
-    description: |2-
+    description: >-
         Responsibilities include:
         
         * Analysing
