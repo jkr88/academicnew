@@ -38,4 +38,4 @@ email: ""
 ---
 Jacopo is a dedicated, goal-oriented biochemist experienced in a wide variety of molecular biology and biochemical laboratory research techniques. Principal strengths include conducting collaborative and independent research using molecular biology, biophysics, and biochemistry techniques with significant experience in gene cloning, translation regulation, recombinant protein expression and purification, and characterization through mutational analysis, functional assays and smFRET studies. Exceptional problem solving, communication, diagnostic, and multi-tasking skills.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "#cv" >}}resumé{{< /staticref >}}.
