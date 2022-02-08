@@ -20,11 +20,11 @@ feature:
 - description: 
   icon: flask
   icon_pack: fas
-  name: Protein expression and purification
+  name: Protein Expression and Purification
 - description: 
   icon: dna
   icon_pack: fas
-  name: Molecular biology & biochemical research methods
+  name: Molecular Biology & Biochemical Research Methods
 - description:
   icon: chart-line
   icon_pack: fas
@@ -32,7 +32,7 @@ feature:
 - description: 
   icon: tools
   icon_pack: fas
-  name: Diagnostic skills/technical aptitude
+  name: Diagnostic Skills/Technical Aptitude
 - description: 
   icon: python
   icon_pack: fab
