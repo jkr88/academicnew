@@ -28,7 +28,7 @@ experience:
     company_logo: ucr
     location: Riverside, California
     date_start: '2017-09-01'
-    date_end: ''
+    date_end: 'Expected graduation ~ April 2022'
     description: Research focused on single molecule FRET studies on the compositional and conformational dynamics of the closed-loop model in Eukaryotic translation initiation. Taught five undergraduate biochemistry courses. 
         
   - title: Undergraduate Student Researcher
