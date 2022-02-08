@@ -26,8 +26,8 @@ organizations:
 education:
   courses:
     - course: MSc in Cellular, Molecular, and Developmental Biology
-      institution: UCR
-      year: ""
+      institution: University of California, Riverside
+      year: 2022
     - course: BSc in Biochemistry
       institution: California State University, Los Angeles
       year: 2017
