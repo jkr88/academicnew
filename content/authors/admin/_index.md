@@ -1,6 +1,6 @@
 ---
 role: ""
-avatar_filename: suit.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Translation Initiation
