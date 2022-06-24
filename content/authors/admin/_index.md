@@ -3,8 +3,8 @@ role: ""
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Translation Initiation
-  - mRNA Circularization
+  - Single-molecule studies of Eukaryotic translation initiation
+  - Protein purification and characterization
   - Data Science
   - Python
 social:
