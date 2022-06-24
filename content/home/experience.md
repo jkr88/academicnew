@@ -35,7 +35,7 @@ experience:
     company: CSULA
     company_url: ''
     company_logo: csula
-    location: Los Angees, California
+    location: Los Angeles, California
     date_start: '2014-08-30'
     date_end: '2017-05-15'
     description: Minority Biomedical Research Support-Research Initiative for Scientific Enhancement (MBRS-RISE) fellow. Research centered on expression and isolation of recombinant lipid transfer protein 4 (LTP4) in Escherichia coli (e. coli), in order to assess the role of lipid transfer proteins in plant development and plant senescence. 
