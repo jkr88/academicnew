@@ -19,7 +19,7 @@ social:
     link: https://github.com/jkr88
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/jacopo-airapetyan-b74b78127/
+    link: https://www.linkedin.com/in/jacopo-airapetyan
 organizations:
   - name: UCR
     url: https://www.ucr.edu/
